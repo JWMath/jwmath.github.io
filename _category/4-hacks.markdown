@@ -1,5 +1,5 @@
 ---
-title: Code {hack}
-short-description: If code is Your Thing
+title: Teaching
+short-description:     
 permalink: hacks
 ---

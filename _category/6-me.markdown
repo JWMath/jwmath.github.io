@@ -1,5 +1,5 @@
 ---
-title: Life {me}
-short-description: Things that brings Me to Life
+title: Personal
+short-description:       
 permalink: me
 ---

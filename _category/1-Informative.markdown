@@ -1,5 +1,5 @@
 ---
-title: My research
-short-description: 
+title: Home
+short-description:            
 permalink: informative
 ---

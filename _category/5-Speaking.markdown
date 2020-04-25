@@ -1,5 +1,5 @@
 ---
-title: Talks I've Given
-short-description: On Technologies and Ideas
+title: Talks
+short-description:      
 permalink: speaking
 ---
