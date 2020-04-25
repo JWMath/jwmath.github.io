@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# JWMath.github.io
+Repository for Jun Wang's academic research website.
