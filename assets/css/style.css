@@ -33,7 +33,7 @@ ul#nav li.activelink a,ul#nav li.activelink a:hover{background: #FFF;color: #003
 }
 
 #left .box {
-	float: right
+	float: right;
 	padding: 1em;
 	margin: 0 0 1em 0;
 	background : #b3b3b3;
