@@ -6,6 +6,10 @@
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css" media="screen" />
 	</head>
 	<body>
+		 
+		         <button id="change">中英文切换</button><br />
+		         <p style="text-align: center;">变变变</p>
+				
 		<div id="header">
 			<h1>Jun Wang</h1>
 			<div id="menu">
@@ -63,5 +67,14 @@
 				</div>
 			</div>
 		</div>
+		 <script src="js/jquery-1.11.3.js"></script>
+		        <script src="js/language.js"></script>
+		        <script src="js/microsoft.js"></script>
+		        <script>
+		            $("#change").click(function() {
+		                translate();
+		            })
+		        </script>
+		
 	</body>
 </html>
