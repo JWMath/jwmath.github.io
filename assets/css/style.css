@@ -39,8 +39,8 @@
 #cssmenu ul {
   background: none;
   border-radius: 3px;
-  border: 1px solid none;
-  border: 1px solid none;
+  border: 1px solid #104ac7;
+  border: 1px solid #104ac7;
   -webkit-box-shadow: 0 1px 2px rgba(2, 2, 2, 0.25), inset 0 1px 1px rgba(255, 255, 255, 0.15);
   -o-box-shadow: 0 1px 2px rgba(2, 2, 2, 0.25), inset 0 1px 1px rgba(255, 255, 255, 0.15);
   -moz-box-shadow: 0 1px 2px rgba(2, 2, 2, 0.25), inset 0 1px 1px rgba(255, 255, 255, 0.15);
